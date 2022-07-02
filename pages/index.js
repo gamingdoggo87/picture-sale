@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to gamingdoggo87's website!
+          Welcome to gamingdoggo87’s website!
         </h1>
 
         <p className={styles.description}>
